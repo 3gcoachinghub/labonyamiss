@@ -1,0 +1,15 @@
+{
+  "name": "labonyamiss",
+  "version": "1.0.0",
+  "description": "Labonya Miss - Senior O Level, AS Level & A2 Level Chemistry Teacher at 3G Coaching Hub, Gulshan, Dhaka.",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "echo 'No build step required'",
+    "lint": "node -c server.js script.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
